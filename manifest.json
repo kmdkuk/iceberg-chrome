@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Iceberg Theme",
+  "description": "Iceberg color scheme for Chrome",
+  "theme": {
+    "colors": {
+      "frame": [15, 17, 23],
+      "frame_inactive": [15, 17, 23],
+      "frame_incognito": [15, 17, 23],
+      "frame_incognito_inactive": [15, 17, 23],
+      "toolbar": [22, 24, 33],
+      "tab_text": [198, 200, 209],
+      "tab_background_text": [107, 112, 137],
+      "background_tab": [15, 17, 23],
+      "bookmark_text": [198, 200, 209],
+      "ntp_background": [22, 24, 33],
+      "ntp_text": [198, 200, 209],
+      "omnibox_background": [30, 33, 50],
+      "omnibox_text": [198, 200, 209],
+      "button_background": [22, 24, 33]
+    }
+  }
+}
